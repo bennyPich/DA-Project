@@ -43,24 +43,25 @@ For each region (NA, EU, JP), determine:
     - Do ESRB ratings affect sales in individual regions?
   
  5. Test the following hypotheses:  
-  — Average user ratings of the Xbox One and PC platforms are the same.  
-  — Average user ratings for the Action and Sports genres are different.  
+      - Average user ratings of the Xbox One and PC platforms are the same.  
+      - Average user ratings for the Action and Sports genres are different.  
 Set the alpha threshold value yourself.  
 Explain:  
-  — How you formulated the null and alternative hypotheses.    
-  — What significance level you chose to test the hypotheses, and why.  
+      - How you formulated the null and alternative hypotheses.    
+      - What significance level you chose to test the hypotheses, and why.  
 6. Write a general conclusion.    
 
 ## Data description
-  — Name
-  — Platform
-  — Year_of_Release
-  — Genre
-  — NA_sales (North American sales in USD million)
-  — EU_sales (sales in Europe in USD million)
-  — JP_sales (sales in Japan in USD million)
-  — Other_sales (sales in other countries in USD million)
-  — Critic_Score (maximum of 100)
-  — User_Score (maximum of 10)
-  — Rating (ESRB)
-Data for 2016 may be incomplete.
+  — Name  
+  — Platform  
+  — Year_of_Release  
+  — Genre  
+  — NA_sales (North American sales in USD million)  
+  — EU_sales (sales in Europe in USD million)  
+  — JP_sales (sales in Japan in USD million)  
+  — Other_sales (sales in other countries in USD million)  
+  — Critic_Score (maximum of 100)  
+  — User_Score (maximum of 10)  
+  — Rating (ESRB)  
+  
+Data for 2016 may be incomplete.  
